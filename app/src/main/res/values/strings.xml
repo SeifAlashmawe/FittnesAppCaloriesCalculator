@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fittnes</string>
+    <string name="edittext_hint"><font size="9">Weight To Lose(KG)</font></string>
+</resources>
